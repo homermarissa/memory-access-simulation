@@ -2,7 +2,7 @@
 
 ## Group Members:
 
-[Marissa Homer](https://github.com/marissahomer)<br>
+[Marissa Homer](https://github.com/homermarissa)<br>
 [Matthew Lewis](https://github.com/jamespeachh) (jamespeachh)<br>
 [Shane Simpson](https://github.com/ShaneS678)
 
