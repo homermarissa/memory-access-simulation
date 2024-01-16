@@ -1,4 +1,4 @@
-## Group No Members:
+## Group Members:
 
 [Marissa Homer](https://github.com/marissahomer)<br>
 [Matthew Lewis](https://github.com/jamespeachh) <br>
