@@ -1,0 +1,876 @@
+
+=====
+SYSTEM TIME: 0
+Checking Empty Segments...
+~
+Memory Segment 0 is AVAILABLE.
+Memory Segment 1 is AVAILABLE.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: false
+Physical Start Address: 10, Remaining Size: 10, Allocated: false
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 1
+Checking Empty Segments...
+~
+Memory Segment 0 is AVAILABLE.
+Memory Segment 1 is AVAILABLE.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 1 with size 15
+Memory allocated: Start Address - 1, Size - 5, Process ID - 1
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 2
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 3
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 4
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 3 with size 13
+Memory allocated: Start Address - 3, Size - 3, Process ID - 3
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 5
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 6
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 7
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 2 with size 16
+Memory allocated: Start Address - 5, Size - 6, Process ID - 2
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 8
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 9
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 10
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 4 with size 18
+Memory allocated: Start Address - 7, Size - 8, Process ID - 4
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 1, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 5, Allocated: true, Process ID: 1
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 70, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: false
+Physical Start Address: 10, Remaining Size: 10, Allocated: false
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 60, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 70, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 11
+Checking Empty Segments...
+~
+Memory Segment 0 is AVAILABLE.
+Memory Segment 1 is AVAILABLE.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+MEMORY SEGMENT 6 is ALLOCATED.
+MEMORY SEGMENT 7 is ALLOCATED.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+2 segments condensed!
+
+
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 12
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 5 with size 9
+Memory allocated: Start Address - 6, Size - 9, Process ID - 5
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 13
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+MEMORY SEGMENT 6 is ALLOCATED.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+Adding New Process...
+Allocating memory for Process ID 6 with size 15
+Memory allocated: Start Address - 8, Size - 5, Process ID - 6
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: true, Process ID: 6, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 80, Remaining Size: 5, Allocated: true, Process ID: 6
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: true, Process ID: 6, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 80, Remaining Size: 5, Allocated: true, Process ID: 6
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 14
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+MEMORY SEGMENT 6 is ALLOCATED.
+MEMORY SEGMENT 7 is ALLOCATED.
+MEMORY SEGMENT 8 is ALLOCATED.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: true, Process ID: 6, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 80, Remaining Size: 5, Allocated: true, Process ID: 6
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 15
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+MEMORY SEGMENT 6 is ALLOCATED.
+MEMORY SEGMENT 7 is ALLOCATED.
+MEMORY SEGMENT 8 is ALLOCATED.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 9, Allocated: true, Process ID: 5
+Physical Start Address: 70, Remaining Size: 10, Allocated: true, Process ID: 6, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 80, Remaining Size: 5, Allocated: true, Process ID: 6
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 16
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+MEMORY SEGMENT 6 is ALLOCATED.
+MEMORY SEGMENT 7 is ALLOCATED.
+MEMORY SEGMENT 8 is ALLOCATED.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: true, Process ID: 6, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 80, Remaining Size: 5, Allocated: true, Process ID: 6
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 17
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+MEMORY SEGMENT 7 is ALLOCATED.
+MEMORY SEGMENT 8 is ALLOCATED.
+Memory Segment 9 is AVAILABLE.
+~
+1 segments condensed!
+
+
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 18
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: true, Process ID: 4, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 50, Remaining Size: 8, Allocated: true, Process ID: 4
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 19
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+MEMORY SEGMENT 4 is ALLOCATED.
+MEMORY SEGMENT 5 is ALLOCATED.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 20
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: true, Process ID: 2, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 30, Remaining Size: 6, Allocated: true, Process ID: 2
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 21
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+MEMORY SEGMENT 2 is ALLOCATED.
+MEMORY SEGMENT 3 is ALLOCATED.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 22
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: true, Process ID: 3, Offset: 10 bytes away from current Start Address.
+Physical Start Address: 10, Remaining Size: 3, Allocated: true, Process ID: 3
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 23
+Checking Empty Segments...
+~
+MEMORY SEGMENT 0 is ALLOCATED.
+MEMORY SEGMENT 1 is ALLOCATED.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: false
+Physical Start Address: 10, Remaining Size: 10, Allocated: false
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 24
+Checking Empty Segments...
+~
+Memory Segment 0 is AVAILABLE.
+Memory Segment 1 is AVAILABLE.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: false
+Physical Start Address: 10, Remaining Size: 10, Allocated: false
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
+
+=====
+SYSTEM TIME: 25
+Checking Empty Segments...
+~
+Memory Segment 0 is AVAILABLE.
+Memory Segment 1 is AVAILABLE.
+Memory Segment 2 is AVAILABLE.
+Memory Segment 3 is AVAILABLE.
+Memory Segment 4 is AVAILABLE.
+Memory Segment 5 is AVAILABLE.
+Memory Segment 6 is AVAILABLE.
+Memory Segment 7 is AVAILABLE.
+Memory Segment 8 is AVAILABLE.
+Memory Segment 9 is AVAILABLE.
+~
+
+System Cycle Completed.
+
+Segment Table:
+Physical Start Address: 00, Remaining Size: 10, Allocated: false
+Physical Start Address: 10, Remaining Size: 10, Allocated: false
+Physical Start Address: 20, Remaining Size: 10, Allocated: false
+Physical Start Address: 30, Remaining Size: 10, Allocated: false
+Physical Start Address: 40, Remaining Size: 10, Allocated: false
+Physical Start Address: 50, Remaining Size: 10, Allocated: false
+Physical Start Address: 60, Remaining Size: 10, Allocated: false
+Physical Start Address: 70, Remaining Size: 10, Allocated: false
+Physical Start Address: 80, Remaining Size: 10, Allocated: false
+Physical Start Address: 90, Remaining Size: 10, Allocated: false
